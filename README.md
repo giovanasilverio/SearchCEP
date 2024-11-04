@@ -54,9 +54,11 @@ Digite o CEP desejado e receba as informações completas do endereço em um arq
 Digite o CEP: 01001-000
 Resultado:
 Logradouro: Praça da Sé
+CEP:
+Complemento: 
 Bairro: Sé
-Cidade: São Paulo
-Estado: SP
+Localidade: São Paulo
+UF: SP
 ```
 
 ## Contribuição
@@ -73,6 +75,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do proje
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Esse modelo pode ser ajustado conforme as necessidades do seu projeto!
